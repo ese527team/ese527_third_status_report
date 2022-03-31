@@ -1,0 +1,5 @@
+Response to Mid Semester Presentation
+Q: Have you considered to combine PCA + LSTM and Random Forest + SVM model to do the predication and compare the accuracy of these 4 methods?
+A:We use the PCA + LSTM model and Random Forest + SVM model to predict the stock price. Compare the results for these two new model with the quarterly increase rate of SP 500. Also, compare the accuracy with the PCA + SVM model and Random Forest + LSTM model.
+Q: If you use the SVR model, can you get better performance?
+A: Probably we can get a better performance. However, the essence of our project is a classification problem. And as for classification problem, the accuracy of the result of SVR cannot increase significantly.
